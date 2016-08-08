@@ -1,5 +1,3 @@
---by [@alireza_PT]
---Our channel [@create_antispam_bot]
 
 local function run(msg, matches)
         local text = URL.escape(matches[1])
@@ -129,5 +127,3 @@ return {
        },
    run = run
 }
---by [@alireza_PT]
---Our channel [@create_antispam_bot]
